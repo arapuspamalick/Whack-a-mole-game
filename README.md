@@ -1,5 +1,5 @@
 # Whack-a-mole-game
-Creator-ArapuspaMallick
+Creator-Arapuspa Mallick
 import pygame
 import random
 import time
